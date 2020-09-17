@@ -414,7 +414,7 @@ input, select, textarea {
 		#header p {
 			font-size: 1.25em;
 			font-family: 'Merriweather Sans', sans-serif;
-			margin: 0.75em 0 0.25em 0;
+			margin: 1.1em 0 0.25em 0;
 			opacity: 0.85;
 			font-weight: 400;
 			color: #fff;
@@ -444,6 +444,7 @@ input, select, textarea {
 				position: relative;
 				top: 0;
 				width: 5.35em;
+				margin-left: 0.5em;
 			}
 
 				#header nav li:nth-child(1) {
